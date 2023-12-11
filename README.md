@@ -8,8 +8,8 @@
 
     Example Steps:
     ```bash
-    Step 1...
-    Step 2...
+    Step 1: install the environment
+    Step 2: Import Database
     ```
 
 ## Database Design
